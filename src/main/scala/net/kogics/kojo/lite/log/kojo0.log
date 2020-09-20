@@ -1,0 +1,309 @@
+[Sun Sep 06 20:56:55 PDT 2020, Main] INFO: Kojo version: 2.9, 2.9.06
+[Sun Sep 06 20:56:55 PDT 2020, Main] INFO: Java version: 1.8.0_251-b08; x86_64. Scala version: 2.13.3
+[Sun Sep 06 20:56:55 PDT 2020, Main] INFO: System Properties:
+apple.awt.graphics.UseQuartz = true
+apple.laf.useScreenMenuBar = true
+awt.toolkit = sun.lwawt.macosx.LWCToolkit
+awt.useSystemAAFontSettings = lcd
+file.encoding = UTF-8
+file.encoding.pkg = sun.io
+file.separator = /
+gopherProxySet = false
+java.awt.graphicsenv = sun.awt.CGraphicsEnvironment
+java.awt.printerjob = sun.lwawt.macosx.CPrinterJob
+java.class.path = /Users/m536026/.kojo/lite/libk/jep-3.9.0.jar:/Users/m536026/kojo/kojo/target/scala-2.13/classes:/Users/m536026/kojo/kojo/lib/jlatexmath.jar:/Users/m536026/kojo/kojo/lib/darcula.jar:/Users/m536026/kojo/kojo/lib/docking-frames-common.jar:/Users/m536026/kojo/kojo/lib/js.jar:/Users/m536026/kojo/kojo/lib/jtidy-4aug2000r7-dev.jar:/Users/m536026/kojo/kojo/lib/AppleJavaExtensions.jar:/Users/m536026/kojo/kojo/lib/jssc.jar:/Users/m536026/kojo/kojo/lib/jdi.jar:/Users/m536026/kojo/kojo/lib/table-layout.jar:/Users/m536026/kojo/kojo/lib/docking-frames-core.jar:/Users/m536026/kojo/kojo/lib/scalariform.jar:/Users/m536026/kojo/kojo/lib/image-filters.jar:/Users/m536026/kojo/kojo/lib/rithica.jar:/Users/m536026/kojo/kojo/lib/rstaui.jar:/Users/m536026/kojo/kojo/lib/jfugue-4.1.jar:/Users/m536026/kojo/kojo/lib/libtiled.jar:/Users/m536026/kojo/kojo/lib/jl1.0.1.jar:/Users/m536026/kojo/kojo/lib/httpunit.jar:/Users/m536026/kojo/kojo/lib/rsyntaxtextarea.jar:/Users/m536026/kojo/kojo/lib/autocomplete.jar:/Users/m536026/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.13.3.jar:/Users/m536026/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.3.jar:/Users/m536026/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.13.3.jar:/Users/m536026/.ivy2/cache/org.jline/jline/jars/jline-3.15.0.jar:/Users/m536026/.ivy2/cache/net.java.dev.jna/jna/jars/jna-5.3.1.jar:/Users/m536026/.ivy2/cache/com.typesafe.akka/akka-actor_2.13/jars/akka-actor_2.13-2.5.29.jar:/Users/m536026/.ivy2/cache/com.typesafe/config/bundles/config-1.3.3.jar:/Users/m536026/.ivy2/cache/org.scala-lang.modules/scala-java8-compat_2.13/jars/scala-java8-compat_2.13-0.9.0.jar:/Users/m536026/.ivy2/cache/org.scala-lang.modules/scala-swing_2.13/jars/scala-swing_2.13-2.1.1.jar:/Users/m536026/.ivy2/cache/org.scala-lang.modules/scala-xml_2.13/bundles/scala-xml_2.13-1.2.0.jar:/Users/m536026/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.13/bundles/scala-parser-combinators_2.13-1.1.2.jar:/Users/m536026/.ivy2/cache/com.github.benhutchison/scalaswingcontrib_2.13/jars/scalaswingcontrib_2.13-1.8.jar:/Users/m536026/.ivy2/cache/org.scala-lang.modules/scala-collection-compat_2.13/bundles/scala-collection-compat_2.13-2.1.2.jar:/Users/m536026/.ivy2/cache/org.piccolo2d/piccolo2d-core/bundles/piccolo2d-core-1.3.1.jar:/Users/m536026/.ivy2/cache/org.piccolo2d/piccolo2d-extras/bundles/piccolo2d-extras-1.3.1.jar:/Users/m536026/.ivy2/cache/com.vividsolutions/jts/jars/jts-1.13.jar:/Users/m536026/.ivy2/cache/com.h2database/h2/jars/h2-1.3.168.jar:/Users/m536026/.ivy2/cache/org.apache.commons/commons-math3/jars/commons-math3-3.6.1.jar:/Users/m536026/.ivy2/cache/javax.xml.bind/jaxb-api/jars/jaxb-api-2.2.jar:/Users/m536026/.ivy2/cache/javax.xml.stream/stax-api/jars/stax-api-1.0-2.jar:/Users/m536026/.ivy2/cache/javax.activation/activation/jars/activation-1.1.jar:/Users/m536026/.ivy2/cache/com.sun.xml.bind/jaxb-impl/jars/jaxb-impl-2.2.jar:/Users/m536026/.ivy2/cache/org.scalatest/scalatest_2.13/bundles/scalatest_2.13-3.0.8.jar:/Users/m536026/.ivy2/cache/org.scalactic/scalactic_2.13/bundles/scalactic_2.13-3.0.8.jar
+java.class.version = 52.0
+java.endorsed.dirs = /Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre/lib/endorsed
+java.ext.dirs = /Users/m536026/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+java.home = /Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre
+java.io.tmpdir = /var/folders/vs/qmsflsg52596rbsvv72ckr7ng6yl5t/T/
+java.library.path = /Users/m536026/.kojo/lite/libk:/home/lalit/miniconda3/envs/pytorch/lib:/home/lalit/miniconda3/envs/pytorch/lib/python3.8/site-packages/jep                 
+java.runtime.name = Java(TM) SE Runtime Environment
+java.runtime.version = 1.8.0_251-b08
+java.specification.name = Java Platform API Specification
+java.specification.vendor = Oracle Corporation
+java.specification.version = 1.8
+java.vendor = Oracle Corporation
+java.vendor.url = http://java.oracle.com/
+java.vendor.url.bug = http://bugreport.sun.com/bugreport/
+java.version = 1.8.0_251
+java.vm.info = mixed mode
+java.vm.name = Java HotSpot(TM) 64-Bit Server VM
+java.vm.specification.name = Java Virtual Machine Specification
+java.vm.specification.vendor = Oracle Corporation
+java.vm.specification.version = 1.8
+java.vm.vendor = Oracle Corporation
+java.vm.version = 25.251-b08
+line.separator = 
+
+os.arch = x86_64
+os.name = Mac OS X
+os.version = 10.13.6
+path.separator = :
+sun.arch.data.model = 64
+sun.boot.class.path = /Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre/classes
+sun.boot.library.path = /Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre/lib
+sun.cpu.endian = little
+sun.cpu.isalist = 
+sun.io.unicode.encoding = UnicodeBig
+sun.java.command = net.kogics.kojo.lite.Main
+sun.java.launcher = SUN_STANDARD
+sun.jnu.encoding = UTF-8
+sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+sun.os.patch.level = unknown
+user.country = US
+user.dir = /Users/m536026/kojo/kojo
+user.home = /Users/m536026
+user.language = en
+user.name = m536026
+user.timezone = 
+
+
+[Sun Sep 06 20:57:24 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor compiling/running code:
+---
+// #include ~/kojo-includes/neural-style.kojo
+NeuralStyle.root = "/home/lalit/work/kojo_neural_style"
+val styleModelDir = s"${NeuralStyle.root}/neural_style/saved_models"
+val mosaicModel = s"$styleModelDir/mosaic.pth"
+val udnieModel = s"$styleModelDir/udnie.pth"
+
+cleari()
+val fltr1 = new NeuralStyleFilter(mosaicModel)
+val fltr2 = new NeuralStyleFilter(udnieModel)
+
+val drawing = Picture {
+    setPenColor(black)
+    setPenThickness(10)
+    repeat(18) {
+        repeat(5) {
+            forward(100)
+            right(72)
+        }
+        right(20)
+    }
+}
+
+val pic = effect(fltr2) * effect(fltr1) -> drawing
+draw(pic)
+---
+
+[Sun Sep 06 20:57:25 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor done compiling/running code. Return value Success
+[Sun Sep 06 20:57:25 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor doing final handling for code.
+[Sun Sep 06 20:57:25 PDT 2020, ScalaCodeRunner] INFO: Interpreter Done notification received
+[Sun Sep 06 20:57:54 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor compiling/running code:
+---
+include ~/kojo-includes/neural-style.kojo
+NeuralStyle.root = "/home/lalit/work/kojo_neural_style"
+val styleModelDir = s"${NeuralStyle.root}/neural_style/saved_models"
+val mosaicModel = s"$styleModelDir/mosaic.pth"
+val udnieModel = s"$styleModelDir/udnie.pth"
+
+cleari()
+val fltr1 = new NeuralStyleFilter(mosaicModel)
+val fltr2 = new NeuralStyleFilter(udnieModel)
+
+val drawing = Picture {
+    setPenColor(black)
+    setPenThickness(10)
+    repeat(18) {
+        repeat(5) {
+            forward(100)
+            right(72)
+        }
+        right(20)
+    }
+}
+
+val pic = effect(fltr2) * effect(fltr1) -> drawing
+draw(pic)
+---
+
+[Sun Sep 06 20:57:54 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor done compiling/running code. Return value Error
+[Sun Sep 06 20:57:54 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor doing final handling for code.
+[Sun Sep 06 20:57:54 PDT 2020, ScalaCodeRunner] INFO: Interpreter Done notification received
+[Sun Sep 06 20:58:13 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor compiling/running code:
+---
+ #include ~/kojo-includes/neural-style.kojo
+NeuralStyle.root = "/home/lalit/work/kojo_neural_style"
+val styleModelDir = s"${NeuralStyle.root}/neural_style/saved_models"
+val mosaicModel = s"$styleModelDir/mosaic.pth"
+val udnieModel = s"$styleModelDir/udnie.pth"
+
+cleari()
+val fltr1 = new NeuralStyleFilter(mosaicModel)
+val fltr2 = new NeuralStyleFilter(udnieModel)
+
+val drawing = Picture {
+    setPenColor(black)
+    setPenThickness(10)
+    repeat(18) {
+        repeat(5) {
+            forward(100)
+            right(72)
+        }
+        right(20)
+    }
+}
+
+val pic = effect(fltr2) * effect(fltr1) -> drawing
+draw(pic)
+---
+
+[Sun Sep 06 20:58:13 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor done compiling/running code. Return value Error
+[Sun Sep 06 20:58:13 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor doing final handling for code.
+[Sun Sep 06 20:58:13 PDT 2020, ScalaCodeRunner] INFO: Interpreter Done notification received
+[Sun Sep 06 20:58:19 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor compiling/running code:
+---
+include ~/kojo-includes/neural-style.kojo
+NeuralStyle.root = "/home/lalit/work/kojo_neural_style"
+val styleModelDir = s"${NeuralStyle.root}/neural_style/saved_models"
+val mosaicModel = s"$styleModelDir/mosaic.pth"
+val udnieModel = s"$styleModelDir/udnie.pth"
+
+cleari()
+val fltr1 = new NeuralStyleFilter(mosaicModel)
+val fltr2 = new NeuralStyleFilter(udnieModel)
+
+val drawing = Picture {
+    setPenColor(black)
+    setPenThickness(10)
+    repeat(18) {
+        repeat(5) {
+            forward(100)
+            right(72)
+        }
+        right(20)
+    }
+}
+
+val pic = effect(fltr2) * effect(fltr1) -> drawing
+draw(pic)
+---
+
+[Sun Sep 06 20:58:19 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor done compiling/running code. Return value Error
+[Sun Sep 06 20:58:19 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor doing final handling for code.
+[Sun Sep 06 20:58:19 PDT 2020, ScalaCodeRunner] INFO: Interpreter Done notification received
+[Sun Sep 06 20:58:26 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor compiling/running code:
+---
+// #include ~/kojo-includes/neural-style.kojo
+NeuralStyle.root = "/home/lalit/work/kojo_neural_style"
+val styleModelDir = s"${NeuralStyle.root}/neural_style/saved_models"
+val mosaicModel = s"$styleModelDir/mosaic.pth"
+val udnieModel = s"$styleModelDir/udnie.pth"
+
+cleari()
+val fltr1 = new NeuralStyleFilter(mosaicModel)
+val fltr2 = new NeuralStyleFilter(udnieModel)
+
+val drawing = Picture {
+    setPenColor(black)
+    setPenThickness(10)
+    repeat(18) {
+        repeat(5) {
+            forward(100)
+            right(72)
+        }
+        right(20)
+    }
+}
+
+val pic = effect(fltr2) * effect(fltr1) -> drawing
+draw(pic)
+---
+
+[Sun Sep 06 20:58:26 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor done compiling/running code. Return value Success
+[Sun Sep 06 20:58:26 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor doing final handling for code.
+[Sun Sep 06 20:58:26 PDT 2020, ScalaCodeRunner] INFO: Interpreter Done notification received
+[Mon Sep 07 08:46:42 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor compiling/running code:
+---
+// #include ~/kojo-includes/neural-style.kojo
+NeuralStyle.root = "/home/lalit/work/kojo_neural_style"
+val styleModelDir = s"${NeuralStyle.root}/neural_style/saved_models"
+val mosaicModel = s"$styleModelDir/mosaic.pth"
+val udnieModel = s"$styleModelDir/udnie.pth"
+
+cleari()
+val fltr1 = new NeuralStyleFilter(mosaicModel)
+val fltr2 = new NeuralStyleFilter(udnieModel)
+
+val drawing = Picture {
+    setPenColor(black)
+    setPenThickness(10)
+    repeat(18) {
+        repeat(5) {
+            forward(100)
+            right(72)
+        }
+        right(20)
+    }
+}
+
+val pic = effect(fltr2) * effect(fltr1) -> drawing
+draw(pic)
+---
+
+[Mon Sep 07 08:46:43 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor done compiling/running code. Return value Success
+[Mon Sep 07 08:46:43 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor doing final handling for code.
+[Mon Sep 07 08:46:43 PDT 2020, ScalaCodeRunner] INFO: Interpreter Done notification received
+[Mon Sep 07 08:47:01 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor compiling/running code:
+---
+// #include ~/kojo-includes/neural-style.kojo
+NeuralStyle.root = "/home/lalit/work/kojo_neural_style"
+val styleModelDir = s"${NeuralStyle.root}/neural_style/saved_models"
+val mosaicModel = s"$styleModelDir/mosaic.pth"
+val udnieModel = s"$styleModelDir/udnie.pth"
+
+cleari()
+val fltr1 = new NeuralStyleFilter(mosaicModel)
+val fltr2 = new NeuralStyleFilter(udnieModel)
+
+val drawing = Picture {
+    setPenColor(black)
+    setPenThickness(10)
+    repeat(18) {
+        repeat(5) {
+            forward(100)
+            right(72)
+        }
+        right(20)
+    }
+}
+
+val pic = effect(fltr2) * effect(fltr1) -> drawing
+draw(pic)
+---
+
+[Mon Sep 07 08:47:01 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor done compiling/running code. Return value Success
+[Mon Sep 07 08:47:01 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor doing final handling for code.
+[Mon Sep 07 08:47:01 PDT 2020, ScalaCodeRunner] INFO: Interpreter Done notification received
+[Mon Sep 07 08:49:44 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor compiling/running code:
+---
+// #include ~/kojo-includes/neural-style.kojo
+NeuralStyle.root = "/home/lalit/work/kojo_neural_style"
+val styleModelDir = s"${NeuralStyle.root}/neural_style/saved_models"
+val mosaicModel = s"$styleModelDir/mosaic.pth"
+val udnieModel = s"$styleModelDir/udnie.pth"
+
+cleari()
+val fltr1 = new NeuralStyleFilter(mosaicModel)
+val fltr2 = new NeuralStyleFilter(udnieModel)
+
+val drawing = Picture {
+    setPenColor(black)
+    setPenThickness(10)
+    repeat(18) {
+        repeat(5) {
+            forward(100)
+            right(72)
+        }
+        right(20)
+    }
+}
+
+val pic = effect(fltr2) * effect(fltr1) -> drawing
+draw(pic)
+---
+
+[Mon Sep 07 08:49:44 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor done compiling/running code. Return value Success
+[Mon Sep 07 08:49:44 PDT 2020, ScalaCodeRunner] INFO: CodeRunner actor doing final handling for code.
+[Mon Sep 07 08:49:44 PDT 2020, ScalaCodeRunner] INFO: Interpreter Done notification received

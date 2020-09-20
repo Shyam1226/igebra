@@ -1,0 +1,192 @@
+[0m[[0mdebug[0m] [0mjavaOptions: List(-Xmx1024m, -Xss1m, -XX:+UseConcMarkSweepGC, -XX:+CMSClassUnloadingEnabled)[0m
+[0m[[0mdebug[0m] [0mForking tests - parallelism = false[0m
+[0m[[0mdebug[0m] [0mCreate a single-thread test executor[0m
+[0m[[0mdebug[0m] [0mRunner for org.scalacheck.ScalaCheckFramework produced 0 initial tasks for 0 tests.[0m
+[0m[[0mdebug[0m] [0mRunner for org.scalatest.tools.Framework produced 18 initial tasks for 18 tests.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(net.kogics.kojo.lite.i18n.GermanAPITest, sbt.ForkMain$SubclassFingerscan@6859ccdf, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mGermanAPITest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- schleife(n){block} should repeat the block n times[0m[0m
+[0m[[0minfo[0m] [0m[32m- schleifeSolange(condition){block} should execute block while condition holds[0m[0m
+[0m[[0minfo[0m] [0m[32m- schleifeBis(condition){block} should execute block while condition does not hold[0m[0m
+[0m[[0minfo[0m] [0m[32m- schleifeBereich(start, end){i => fn(i)} should call fn with the Int values from start to end[0m[0m
+[0m[[0minfo[0m] [0m[32m- schleifeFür[T](iterable){e => fn(e)} should process all elements of iterable[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 5 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(net.kogics.kojo.util.UtilsTest, sbt.ForkMain$SubclassFingerscan@16e3a47e, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mUtilsTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- loadLocalizedResourceExistingGerman[0m[0m
+[0m[[0minfo[0m] [0m[32m- loadLocalizedResourceExistingOnlyInBaseLanguage[0m[0m
+[0m[[0minfo[0m] [0m[32m- loadLocalizedResourceNotExisting[0m[0m
+[0m[[0minfo[0m] [0m[32m- loadStringExisting[0m[0m
+[0m[[0minfo[0m] [0m[32m- loadStringNull[0m[0m
+[0m[[0minfo[0m] [0m[32m- loadStringNotExisting[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 6 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(net.kogics.kojo.xscala.HelpTest, sbt.ForkMain$SubclassFingerscan@4e957eca, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mHelpTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- lang help miss and hit[0m[0m
+[0m[[0minfo[0m] [0m[32m- common help hit[0m[0m
+[0m[[0minfo[0m] [0m[32m- common help miss; Tw help hit[0m[0m
+[0m[[0minfo[0m] [0m[32m- common help miss; Tw help miss; lang help hit[0m[0m
+[0m[[0minfo[0m] [0m[32m- lang help multiple adds[0m[0m
+[0m[[0minfo[0m] [0m[32m- lang help multiple adds - 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- lang help multiple adds - 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- lang help multiple adds - 4[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 8 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(net.kogics.kojo.picture.PictureCollisionTest, sbt.ForkMain$SubclassFingerscan@40ebe922, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mPictureCollisionTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- box-box non collision[0m[0m
+[0m[[0minfo[0m] [0m[32m- box-box collision[0m[0m
+[0m[[0minfo[0m] [0m[32m- box-tri non collision[0m[0m
+[0m[[0minfo[0m] [0m[32m- box-tri collision[0m[0m
+[0m[[0minfo[0m] [0m[32m- box with many boxes collision[0m[0m
+[0m[[0minfo[0m] [0m[32m- box with many boxes collision, option version[0m[0m
+[0m[[0minfo[0m] [0m[32m- box with many boxes - non collision[0m[0m
+[0m[[0minfo[0m] [0m[32m- box with many boxes - non collision, option version[0m[0m
+[0m[[0minfo[0m] [0m[32m- hvpics-hvpics non collision[0m[0m
+[0m[[0minfo[0m] [0m[32m- hvpics-hvpics collision[0m[0m
+[0m[[0minfo[0m] [0m[32m- no self collisions[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 11 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(net.kogics.kojo.xscala.RepeatCommandsTest, sbt.ForkMain$SubclassFingerscan@4d97f3a2, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mRepeatCommandsTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- repeat[0m[0m
+[0m[[0minfo[0m] [0m[32m- repeati[0m[0m
+[0m[[0minfo[0m] [0m[32m- repeatWhile[0m[0m
+[0m[[0minfo[0m] [0m[32m- repeatUntil[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 4 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(net.kogics.kojo.picture.PictureBounceTest, sbt.ForkMain$SubclassFingerscan@185e11f0, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mPictureBounceTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- bounce 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- bounce ball off stage corner[0m[0m
+[0m[[0minfo[0m] [0m[32m- bounce ball off stage corner2[0m[0m
+[0m[[0minfo[0m] [0m[32m- bounce rectangle off circle[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 4 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(net.kogics.kojo.util.VectorBounceTest, sbt.ForkMain$SubclassFingerscan@1e6ef56, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mVectorBounceTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- bounce 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- bounce 1a[0m[0m
+[0m[[0minfo[0m] [0m[32m- bounce 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- bounce 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- bounce 4[0m[0m
+[0m[[0minfo[0m] [0m[32m- bounce 5[0m[0m
+[0m[[0minfo[0m] [0m[32m- bounce 5a[0m[0m
+[0m[[0minfo[0m] [0m[32m- bounce 6[0m[0m
+[0m[[0minfo[0m] [0m[32m- bounce 6a[0m[0m
+[0m[[0minfo[0m] [0m[32m- bounce 7[0m[0m
+[0m[[0minfo[0m] [0m[32m- bounce 7a[0m[0m
+[0m[[0minfo[0m] [0m[32m- bounce 8[0m[0m
+[0m[[0minfo[0m] [0m[32m- bounce 8a[0m[0m
+[0m[[0minfo[0m] [0m[32m- bounce 9[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 14 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(net.kogics.kojo.picture.PictureTest, sbt.ForkMain$SubclassFingerscan@6041039d, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mPictureTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- picture bounds[0m[0m
+[0m[[0minfo[0m] [0m[32m- picture translation[0m[0m
+[0m[[0minfo[0m] [0m[32m- picture scaling[0m[0m
+[0m[[0minfo[0m] [0m[32m- picture scaling after translation[0m[0m
+[0m[[0minfo[0m] [0m[32m- picture translation after scaling[0m[0m
+[0m[[0minfo[0m] [0m[32m- 3-hpics hp3 bounds[0m[0m
+[0m[[0minfo[0m] [0m[32m- 3-hpics hp2 bounds[0m[0m
+[0m[[0minfo[0m] [0m[32m- heading 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- heading 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- position 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- position + heading[0m[0m
+[0m[[0minfo[0m] [0m[32m- react provides correct me for transforms[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 12 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(net.kogics.kojo.picture.PictureEqualsHashTest, sbt.ForkMain$SubclassFingerscan@236cda84, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mPictureEqualsHashTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- living in a set[0m[0m
+[0m[[0minfo[0m] [0m[32m- living in a map[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 2 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(net.kogics.kojo.lexer.ScalariformTokenMakerTest, sbt.ForkMain$SubclassFingerscan@49fe10bb, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mScalariformTokenMakerTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- test single line val[0m[0m
+[0m[[0minfo[0m] [0m[32m- test two line vals - line 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- test multi line string - line 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- test multi line string - line 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- test xml bug 1[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 5 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(net.kogics.kojo.turtle.TurtleTest2, sbt.ForkMain$SubclassFingerscan@41833f16, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mTurtleTest2:[0m[0m
+[0m[[0minfo[0m] [0m[32m- arc1[0m[0m
+[0m[[0minfo[0m] [0m[32m- arcs[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 2 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(net.kogics.kojo.lite.CodeExecutionSupportTest, sbt.ForkMain$SubclassFingerscan@5f4d2d6a, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mCodeExecutionSupportTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- tabulateNormal[0m[0m
+[0m[[0minfo[0m] [0m[32m- tabulateExtraneousWhiteSpace[0m[0m
+[0m[[0minfo[0m] [0m[32m- tabulateWithoutArrow[0m[0m
+[0m[[0minfo[0m] [0m[32m- tabulateEmpties[0m[0m
+[0m[[0minfo[0m] [0m[32m- tabulateNullHead[0m[0m
+[0m[[0minfo[0m] [0m[32m- tabulateNullInstructions[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 6 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(net.kogics.kojo.util.TerminalAnsiCodesTest, sbt.ForkMain$SubclassFingerscan@6f79f875, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mTerminalAnsiCodesTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- test1[0m[0m
+[0m[[0minfo[0m] [0m[32m- test2[0m[0m
+[0m[[0minfo[0m] [0m[32m- test3[0m[0m
+[0m[[0minfo[0m] [0m[32m- test4[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 4 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(net.kogics.kojo.lexer.ScalariformTokenMakerTest2, sbt.ForkMain$SubclassFingerscan@2bbc8508, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mScalariformTokenMakerTest2:[0m[0m
+[0m[[0minfo[0m] [0m[32m- test single line val[0m[0m
+[0m[[0minfo[0m] [0m[32m- test two line vals - line 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- test multi line string - line 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- test multi line string - line 2[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 4 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(net.kogics.kojo.lite.LangMenuFactoryTest, sbt.ForkMain$SubclassFingerscan@389f6d5f, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mLangMenuFactoryTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- supported languages should contain known supported languages[0m[0m
+[0m[[0minfo[0m] [0m[32m- langMenu has icon for supported languages[0m[0m
+[0m[[0minfo[0m] [0m[32m- each menu item in langMenu has no icon (for now)[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 3 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(net.kogics.kojo.kmath.RationalTest, sbt.ForkMain$SubclassFingerscan@1b5ff3c9, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mRationalTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- addition[0m[0m
+[0m[[0minfo[0m] [0m[32m- subtraction[0m[0m
+[0m[[0minfo[0m] [0m[32m- multiplication[0m[0m
+[0m[[0minfo[0m] [0m[32m- division[0m[0m
+[0m[[0minfo[0m] [0m[32m- commutative law[0m[0m
+[0m[[0minfo[0m] [0m[32m- associative law[0m[0m
+[0m[[0minfo[0m] [0m[32m- distributive law[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 7 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(net.kogics.kojo.xscala.CodeCompletionUtilsTest, sbt.ForkMain$SubclassFingerscan@36c62c4c, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mCodeCompletionUtilsTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- lang templates miss and hit[0m[0m
+[0m[[0minfo[0m] [0m[32m- builtins templates hit[0m[0m
+[0m[[0minfo[0m] [0m[32m- builtins templates miss; Tw templates hit[0m[0m
+[0m[[0minfo[0m] [0m[32m- builtins templates miss; Tw templates miss; lang templates hit[0m[0m
+[0m[[0minfo[0m] [0m[32m- lang templates multiple add[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 5 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(net.kogics.kojo.picture.ArcDoubleAngleTest, sbt.ForkMain$SubclassFingerscan@3ac936de, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mArcDoubleAngleTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- touching[0m[0m
+[0m[[0minfo[0m] [0m[32m- not touching[0m[0m
+[0m[[0minfo[0m] [0m[32m- overlapping[0m[0m
+[0m[[0minfo[0m] [0m[32m- negative angle touching[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 4 events.[0m
+[0m[[0mdebug[0m] [0mSummary for ScalaCheck not available.[0m
+[0m[[0minfo[0m] [0mScalaTest[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 15 seconds, 834 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 106[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 18, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 106, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0minfo[0m] [0mPassed: Total 106, Failed 0, Errors 0, Passed 106[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	net.kogics.kojo.util.UtilsTest[0m
+[0m[[0mdebug[0m] [0m	net.kogics.kojo.picture.ArcDoubleAngleTest[0m
+[0m[[0mdebug[0m] [0m	net.kogics.kojo.picture.PictureBounceTest[0m
+[0m[[0mdebug[0m] [0m	net.kogics.kojo.picture.PictureCollisionTest[0m
+[0m[[0mdebug[0m] [0m	net.kogics.kojo.kmath.RationalTest[0m
+[0m[[0mdebug[0m] [0m	net.kogics.kojo.lexer.ScalariformTokenMakerTest[0m
+[0m[[0mdebug[0m] [0m	net.kogics.kojo.util.TerminalAnsiCodesTest[0m
+[0m[[0mdebug[0m] [0m	net.kogics.kojo.lite.CodeExecutionSupportTest[0m
+[0m[[0mdebug[0m] [0m	net.kogics.kojo.lite.i18n.GermanAPITest[0m
+[0m[[0mdebug[0m] [0m	net.kogics.kojo.xscala.HelpTest[0m
+[0m[[0mdebug[0m] [0m	net.kogics.kojo.lexer.ScalariformTokenMakerTest2[0m
+[0m[[0mdebug[0m] [0m	net.kogics.kojo.picture.PictureEqualsHashTest[0m
+[0m[[0mdebug[0m] [0m	net.kogics.kojo.xscala.RepeatCommandsTest[0m
+[0m[[0mdebug[0m] [0m	net.kogics.kojo.picture.PictureTest[0m
+[0m[[0mdebug[0m] [0m	net.kogics.kojo.xscala.CodeCompletionUtilsTest[0m
+[0m[[0mdebug[0m] [0m	net.kogics.kojo.turtle.TurtleTest2[0m
+[0m[[0mdebug[0m] [0m	net.kogics.kojo.lite.LangMenuFactoryTest[0m
+[0m[[0mdebug[0m] [0m	net.kogics.kojo.util.VectorBounceTest[0m

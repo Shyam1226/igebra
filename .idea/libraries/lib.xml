@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jfugue-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jlatexmath.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libtiled.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rsyntaxtextarea.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jssc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jdi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpunit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/table-layout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rstaui.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/autocomplete.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/image-filters.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jtidy-4aug2000r7-dev.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rithica.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/AppleJavaExtensions.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/js.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scalariform.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/docking-frames-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jl1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/darcula.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/docking-frames-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

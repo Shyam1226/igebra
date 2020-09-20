@@ -1,0 +1,7 @@
+[0m[[0mdebug[0m] [0mjavaOptions: List(-Xmx1024m, -Xss1m, -XX:+UseConcMarkSweepGC, -XX:+CMSClassUnloadingEnabled)[0m
+[0m[[0minfo[0m] [0mRunning net.kogics.kojo.lite.DesktopMain [0m
+[0m[[0minfo[0m] [0m1.8.0_251[0m
+[0m[[0minfo[0m] [0m[INFO] Running first Kojo instance with args: [][0m
+[0m[[0minfo[0m] [0m[INFO] Java Home: /Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/jre[0m
+[0m[[0minfo[0m] [0mJava VM args: -client -Xms128m -Xmx2g -Xss1m -Dapple.laf.useScreenMenuBar=true -Dawt.useSystemAAFontSettings=lcd -XX:+UseConcMarkSweepGC -XX:+CMSClassUnloadingEnabled -Dapple.awt.graphics.UseQuartz=true net.kogics.kojo.lite.Main [0m
+[0m[[31merror[0m] [0m[INFO] Logging has been redirected to: /Users/m536026/.kojo/lite/log/kojo0.log[0m

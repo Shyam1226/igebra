@@ -1,0 +1,20 @@
+#Successful Tests
+#Sun Sep 13 20:02:35 PDT 2020
+net.kogics.kojo.xscala.RepeatCommandsTest=1600052554097
+net.kogics.kojo.util.TerminalAnsiCodesTest=1600052554647
+net.kogics.kojo.xscala.HelpTest=1600052542086
+net.kogics.kojo.kmath.RationalTest=1600052554891
+net.kogics.kojo.lite.LangMenuFactoryTest=1600052554802
+net.kogics.kojo.picture.PictureTest=1600052554326
+net.kogics.kojo.util.VectorBounceTest=1600052554221
+net.kogics.kojo.lite.i18n.GermanAPITest=1600052541842
+net.kogics.kojo.picture.PictureEqualsHashTest=1600052554351
+net.kogics.kojo.lexer.ScalariformTokenMakerTest2=1600052554694
+net.kogics.kojo.xscala.CodeCompletionUtilsTest=1600052554908
+net.kogics.kojo.picture.PictureBounceTest=1600052554181
+net.kogics.kojo.picture.ArcDoubleAngleTest=1600052554932
+net.kogics.kojo.lexer.ScalariformTokenMakerTest=1600052554410
+net.kogics.kojo.turtle.TurtleTest2=1600052554620
+net.kogics.kojo.util.UtilsTest=1600052541980
+net.kogics.kojo.picture.PictureCollisionTest=1600052554077
+net.kogics.kojo.lite.CodeExecutionSupportTest=1600052554637
